@@ -3,7 +3,7 @@
 ^https?:\/\/pan\.baidu\.com\/rest\/2\.0\/pcs\/ad url reject
 ^https?:\/\/pan\.baidu\.com\/act\/api\/activityentry url reject
 
-# > douban
+# > 豆瓣
 ^https?:\/\/api\.douban\.com\/v2\/app_ads\/splash url reject
 ^https?:\/\/api\.douban\.com\/b.*\/common_ads\?.* url reject
 
