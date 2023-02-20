@@ -74,4 +74,4 @@
 # > 中国移动云盘
 ^https?:\/\/mcmm\.caiyun\.feixin\.10086\.cn:80\/mcmm\/api\/IAdvert url reject-200
 
-hostname = pan.baidu.com, api.douban.com, m.360buyimg.com, m15.360buyimg.com, storage.360buyimg.com, m.jd.com, api.m.jd.com, ms.jr.jd.com, peisongapi.meituan.com, img.meituan.net, s3plus.meituan.net, flowplus.meituan.net, p*.meituan.net, www.meituan.com, api.m.mi.com, api.pinduoduo.com, api.yangkeduo.com, ad.12306.cn, mp.weixin.qq.com, security.wechat.com, weixin110.qq.com, webappcfg.paas.cmbchina.com, mcmm.caiyun.feixin.10086.cn,
+hostname = pan.baidu.com, api.douban.com, m.360buyimg.com, m15.360buyimg.com, storage.360buyimg.com, m.jd.com, api.m.jd.com, ms.jr.jd.com, peisongapi.meituan.com, img.meituan.net, s3plus.meituan.net, flowplus.meituan.net, p*.meituan.net, www.meituan.com, api.m.mi.com, api.pinduoduo.com, api.yangkeduo.com, ad.12306.cn, mp.weixin.qq.com, security.wechat.com, weixin110.qq.com, webappcfg.paas.cmbchina.com, mcmm.caiyun.feixin.10086.cn
