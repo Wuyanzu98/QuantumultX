@@ -7,11 +7,6 @@
 ^https?:\/\/api\.douban\.com\/v2\/app_ads\/splash url reject
 ^https?:\/\/api\.douban\.com\/b.*\/common_ads\?.* url reject
 
-# > 京东
-^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(start|queryMaterialAdverts) url reject-200
-^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ url reject-200
-^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(hotWords|hotSearchTerms) url script-response-body https://github.com/ddgksf2013/Scripts/raw/master/jd_json.js
-
 # > 京东金融
 ^https?:\/\/ms\.jr\.jd\.com\/gw\/generic\/aladdin\/(new)?na\/m\/getLoadingPicture url reject-200
 
@@ -62,4 +57,4 @@
 # > 中国移动云盘
 ^https?:\/\/mcmm\.caiyun\.feixin\.10086\.cn:80\/mcmm\/api\/IAdvert url reject-200
 
-hostname = pan.baidu.com, api.douban.com, ms.jr.jd.com, bdsp-x.jd.com, dsp-x.jd.com, api.m.jd.com, peisongapi.meituan.com, img.meituan.net, s3plus.meituan.net, flowplus.meituan.net, p*.meituan.net, www.meituan.com, api.m.mi.com, api.pinduoduo.com, api.yangkeduo.com, mp.weixin.qq.com, security.wechat.com, weixin110.qq.com, webappcfg.paas.cmbchina.com, mcmm.caiyun.feixin.10086.cn, acs.m.taobao.com, ad.12306.cn
+hostname = pan.baidu.com, api.douban.com, ms.jr.jd.com, api.m.jd.com, peisongapi.meituan.com, img.meituan.net, s3plus.meituan.net, flowplus.meituan.net, p*.meituan.net, www.meituan.com, api.m.mi.com, api.pinduoduo.com, api.yangkeduo.com, mp.weixin.qq.com, security.wechat.com, weixin110.qq.com, webappcfg.paas.cmbchina.com, mcmm.caiyun.feixin.10086.cn, acs.m.taobao.com, ad.12306.cn
