@@ -1,5 +1,6 @@
 host, app-measurement.com, reject
 HOST, api.zuihuimai.com, REJECT
+
 # 高德地图
 HOST, amap-aos-info-nogw.amap.com, REJECT
 HOST, amdc.m.taobao.com, REJECT
