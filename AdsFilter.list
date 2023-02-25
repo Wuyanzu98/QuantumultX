@@ -1,5 +1,4 @@
 host, app-measurement.com, reject
-HOST, api.zuihuimai.com, REJECT
 host, apoll.m.taobao.com, reject
 
 # 高德地图
@@ -15,4 +14,3 @@ HOST, sdk.open.talk.getui.net, REJECT
 HOST, sdk-conf.getui.com, REJECT
 HOST, switch.cup.com.cn, REJECT
 HOST, tysdk.95516.com, REJECT
-
