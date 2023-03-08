@@ -14,6 +14,3 @@ HOST, sdk.open.talk.getui.net, REJECT
 HOST, sdk-conf.getui.com, REJECT
 HOST, switch.cup.com.cn, REJECT
 HOST, tysdk.95516.com, REJECT
-
-# 米家
-HOST, sdkconfig.ad.xiaomi.com, REJECT
