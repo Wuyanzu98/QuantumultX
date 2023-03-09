@@ -16,7 +16,6 @@ HOST, switch.cup.com.cn, REJECT
 HOST, tysdk.95516.com, REJECT
 
 # 酷狗概念版 开屏广告
-HOST,pgdt.gtimg.cn, reject
-HOST-SUFFIX,pgdt.gtimg.cn, reject
-HOST,pgdt.gtimg.com, reject
-HOST,adsmind.gdtimg.com, reject
+HOST, pgdt.gtimg.cn, reject
+HOST-SUFFIX, pgdt.gtimg.cn, reject
+HOST, adsmind.gdtimg.com, reject
