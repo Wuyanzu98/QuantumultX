@@ -18,3 +18,6 @@ HOST, tysdk.95516.com, REJECT
 # 酷狗概念版 开屏广告
 HOST, pgdt.gtimg.cn, reject
 HOST, adsmind.gdtimg.com, reject
+HOST-SUFFIX,install2.kugou.com, reject
+host-keyword, nbcollectretry.kugou.com, reject
+host-keyword, nbcollect.kugou.com, reject
