@@ -22,3 +22,4 @@ host-keyword, nbcollectretry.kugou.com, reject
 host-keyword, nbcollect.kugou.com, reject
 HOST-SUFFIX,l.qq.com, reject
 HOST-SUFFIX,e.qq.com, reject
+HOST-SUFFIX,ios.bugly.qq.com, reject
