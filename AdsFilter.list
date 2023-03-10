@@ -2,10 +2,8 @@ host, app-measurement.com, reject
 host, apoll.m.taobao.com, reject
 
 # 高德地图
-HOST, amap-aos-info-nogw.amap.com, REJECT
 HOST, amdc.m.taobao.com, REJECT
 HOST, awaken.amap.com, REJECT
-HOST, free-aos-cdn-image.amap.com, REJECT
 
 # 云闪付 开屏广告
 HOST, ads.95516.com, REJECT
