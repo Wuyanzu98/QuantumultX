@@ -3,7 +3,7 @@ host, apoll.m.taobao.com, reject
 
 # 高德地图
 HOST, amdc.m.taobao.com, REJECT
-#HOST, awaken.amap.com, REJECT
+HOST, awaken.amap.com, REJECT
 
 # 云闪付 开屏广告
 HOST, ads.95516.com, REJECT
@@ -13,8 +13,8 @@ HOST, tysdk.95516.com, REJECT
 # 酷狗概念版 开屏广告
 HOST, pgdt.gtimg.cn, reject
 HOST, adsmind.gdtimg.com, reject
-HOST-SUFFIX,l.qq.com, reject
-HOST-SUFFIX,e.qq.com, reject
-#HOST-SUFFIX,ios.bugly.qq.com, reject
-#host-keyword, nbcollectretry.kugou.com, reject
-#host-keyword, nbcollect.kugou.com, reject
+HOST-SUFFIX, l.qq.com, reject
+HOST-SUFFIX, e.qq.com, reject
+HOST-SUFFIX, ios.bugly.qq.com, reject
+host-keyword, nbcollect.kugou.com, reject
+host-keyword, nbcollectretry.kugou.com, reject
