@@ -2,7 +2,7 @@ host, app-measurement.com, reject
 host, apoll.m.taobao.com, reject
 
 #闲鱼开屏
-
+host, iyes.youku.com, reject
 
 # 高德地图
 HOST, amdc.m.taobao.com, REJECT
