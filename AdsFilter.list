@@ -12,6 +12,7 @@ HOST, switch.cup.com.cn, REJECT
 # > 酷狗概念版
 HOST, pgdt.gtimg.cn, REJECT
 HOST, adsmind.gdtimg.com, REJECT
+HOST, update.mobile.kugou.com, REJECT
 HOST-SUFFIX, l.qq.com, REJECT
 HOST-SUFFIX, e.qq.com, REJECT
 HOST-SUFFIX, ios.bugly.qq.com, REJECT
