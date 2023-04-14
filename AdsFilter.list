@@ -1,3 +1,10 @@
+# > 滴滴出行
+HOST, res.xiaojukeji.com, REJECT
+
+# > 淘宝
+HOST, amdc.m.taobao.com, REJECT
+HOST, apoll.m.taobao.com, REJECT
+
 # > 闲鱼
 HOST, iyes.youku.com, REJECT
 
@@ -20,6 +27,4 @@ HOST-KEYWORD, nbcollect.kugou.com, REJECT
 HOST-KEYWORD, nbcollectretry.kugou.com, REJECT
 
 # > others
-HOST, amdc.m.taobao.com, REJECT
-HOST, apoll.m.taobao.com, REJECT
 HOST, app-measurement.com, REJECT
