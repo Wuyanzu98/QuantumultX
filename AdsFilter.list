@@ -1,6 +1,3 @@
-# > 滴滴出行
-HOST, res.xiaojukeji.com, REJECT
-
 # > 淘宝
 HOST, amdc.m.taobao.com, REJECT
 HOST, apoll.m.taobao.com, REJECT
