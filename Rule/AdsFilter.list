@@ -1,5 +1,4 @@
 # > 网易邮箱大师
-HOST, img1.360buyimg.com, REJECT
 HOST-SUFFIX, nex.163.com, REJECT
 HOST-SUFFIX, pgdt.ugdtimg.com, REJECT
 HOST-KEYWORD, p3-be-pack-sign.pglstatp-toutiao.com, REJECT
