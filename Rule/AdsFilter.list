@@ -1,6 +1,10 @@
 # > 网易邮箱大师
 HOST-SUFFIX, nex.163.com, REJECT
 HOST-SUFFIX, pgdt.ugdtimg.com, REJECT
+HOST-KEYWORD, p3-be-pack-sign.pglstatp-toutiao.com, REJECT
+HOST-KEYWORD, p6-be-pack-sign.pglstatp-toutiao.com, REJECT
+HOST-KEYWORD, p9-be-pack-sign.pglstatp-toutiao.com, REJECT
+HOST-KEYWORD, p26-be-pack-sign.pglstatp-toutiao.com, REJECT
 
 # > 淘宝
 HOST, amdc.m.taobao.com, REJECT
